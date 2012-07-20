@@ -1,0 +1,6 @@
+[submodule "vendor/cabinet"]
+	path = vendor/cabinet
+	url = https://github.com/WanWizard/Cabinet
+[submodule "vendor/datamapper"]
+	path = vendor/datamapper
+	url = https://github.com/WanWizard/Datamapper
